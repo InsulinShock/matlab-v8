@@ -1,0 +1,4 @@
+# README
+
+docker build -t matlabv8:1.0 .   
+docker run -it matlabv8:1.0 /bin/bash 
